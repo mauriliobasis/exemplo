@@ -48,12 +48,6 @@ para que **<benefício/valor gerado>**.
 ## 🧪 Critérios Técnicos
 
 - [ ] Código revisado (Code Review)
-- [ ] Testes unitários cobrindo critérios de aceite
-- [ ] Testes automatizados de interface (se aplicável)
-- [ ] Logs e monitoramento implementados
-- [ ] Documentação atualizada
-- [ ] Publicado em ambiente de homologação
-- [ ] Homologado pelo solicitante
 
 ---
 
