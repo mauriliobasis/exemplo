@@ -75,5 +75,4 @@ Insira aqui prints, anexos ou diagramas que ajudem a entender a estória.
 
 - **Solicitante:** <nome>
 - **Analista/PO:** <nome>
-- **Desenvolvedor:** <nome>
 - **Tech Lead:** <nome>
